@@ -4,6 +4,7 @@
   "description": "",
   "main": "test.js",
   "dependencies": {
+    "dotenv": "^16.3.1",
     "puppeteer": "^20.9.0"
   },
   "scripts": {

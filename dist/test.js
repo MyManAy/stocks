@@ -1,6 +1,6 @@
 import puppeteer from "puppeteer";
 import existingJSON from "./data.json" assert { type: "json" };
-import * as fs from "fs";
+import "dotenv/config";
 const chicago_datetime_str = new Date().toLocaleString("en-US", {
     timeZone: "America/Chicago",
 });
@@ -65,7 +65,7 @@ const runWeek = async () => {
         index++;
     }
     const browser = await puppeteer.launch({ headless: false });
-    for (let i = 0; i < 3; i++) {
+    for (let i = 0; i < Object.keys(mapping).length; i++) {
         const date = new Date(startDate.getTime() + MS_IN_DAY * i);
         const [year, month, day] = [
             date.getFullYear(),
@@ -89,8 +89,6 @@ for (const week in result) {
     overBillions[week].open = open.filter(whereBillion);
     overBillions[week].close = close.filter(whereBillion);
 }
-const email = "mkravikumar@gmail.com";
-const password = "Aug$su21st";
 const loginUrl = "https://stockunlock.com/login";
 const browser = await puppeteer.launch();
 const login = await browser.newPage();
@@ -98,8 +96,8 @@ await login.goto(loginUrl);
 const emailForm = await login.waitForXPath("//*[@id='email']");
 const passwordForm = await login.waitForXPath("//*[@id='current-password']");
 const loginButton = await login.waitForXPath("//*[@id='root']/div/div[2]/div/div/div/div/form/div/button[2]");
-await emailForm.type(email);
-await passwordForm.type(password);
+await emailForm.type(process.env.STOCK_UNLOCK_EMAIL);
+await passwordForm.type(process.env.STOCK_UNLOCK_PASSWORD);
 await loginButton.click();
 await login.waitForNavigation();
 const target = await browser.newPage();
@@ -170,7 +168,7 @@ const addStockToJSON = async (stock) => {
     stock = Object.assign(stock, insight);
     console.log(stock);
     const json = JSON.stringify(final);
-    fs.writeFileSync(`src/data.json`, json, "utf8");
+    // fs.writeFileSync(`src/data.json`, json, "utf8");
 };
 const checkIfInsighted = (stockToSearch) => {
     var _a, _b;
