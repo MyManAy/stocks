@@ -1,0 +1,454 @@
+day,time,growthPercentage,ticker,revenue,insightScore,marketCap,industry,EPSTTM,PETTM,forwardPE,divYield
+wednesday,open,7.2%,CVS,"86,440",3.11,"95,600",Health Care,$3.07,24.06,8.46,$2.42 (3.24%)
+wednesday,open,10.7%,HUM,"26,190",4.11,"56,640",Health Care,$24.80,18.18,14.80,$3.54 (0.77%)
+wednesday,open,-24.4%,GNRC,"977",,"9,560",$4.04,37.97,19.78,--
+wednesday,open,18.4%,PERI,"174",4.09,"1,700",Media,$2.17,15.83,14.75,--
+wednesday,open,-18.2%,CCJ,"358",3.43, CAD$19.46B,Energy,$0.30,115.84,38.47,$0.09 (0.26%)
+wednesday,open,4.4%,KHC,"6,840",2.62,"44,380",Food Products,$1.96,18.31,12.25,$1.60 (4.42%)
+wednesday,open,-39.9%,BLDR,"4,160",3.61,"18,510",Building,$17.65,7.58,16.32,--
+wednesday,open,-22.9%,CG,"809",2.63,"12,910",Financial Services,$2.06,17.12,9.90,$1.40 (3.93%)
+wednesday,open,-10.8%,STNG,"361",4.25,"2,800",Energy,$15.47,3.06,5.09,$1.00 (2.13%)
+wednesday,open,-2.0%,TEVA,"3,710",2.40,₪35.29B,Pharmaceuticals,-$1.43,0,3.38,--
+wednesday,open,-29.9%,PSX,"34,550",3.79,"51,190",Energy,$26.53,4.13,9.67,$4.20 (3.77%)
+wednesday,open,22.3%,DT,"327",3.70,"16,030",Technology,$0.37,148.51,50.77,--
+wednesday,open,19.2%,RACE,"1,640",3.71,€72.06B,Automobiles,$5.98,72.77,47.29,$1.99 (0.62%)
+wednesday,open,24.3%,WING,"104",3.98,"5,030",$2.00,83.87,73.22,$0.76 (0.45%)
+wednesday,open,4.1%,SPR,"1,310",2.26,"3,350",Aerospace & Defense,-$7.39,0,93.20,$0.04 (0.13%)
+wednesday,open,15.8%,VRT,"1,620",,"9,880",$0.31,83.42,18.35,$0.01 (0.04%)
+wednesday,open,12.2%,COCO,"129",3.38,"1,490",Beverages,$0.22,120.88,32.98,--
+wednesday,open,-71.8%,RITM,"374",not found,"4,920",Real Estate,--,0,6.69,$1.00 (9.92%)
+wednesday,open,-9.4%,DD,"3,010",2.86,"35,630",Chemicals,$12.24,6.32,18.86,$1.44 (1.85%)
+wednesday,open,23.5%,EXTR,"344",3.67,"3,430",Communications,$0.44,59.08,17.36,--
+wednesday,open,8.9%,JCI,"7,200",3.15,"47,670",Building,$2.01,34.27,17.56,$1.48 (2.13%)
+wednesday,open,7.0%,YUM,"1,750",3.26,"38,360",$4.30,31.28,24.65,$2.42 (1.76%)
+wednesday,open,5.1%,ALGT,"662",2.79,"2,270",Airlines,$3.66,34.87,12.00,--
+wednesday,open,35.0%,BLCO,"1,270",2.24,"6,960",Health Care,-$0.30,0,19.16,--
+wednesday,open,9.6%,BWA,"4,120",3.53,"10,900",Auto Components,$4.09,11.34,8.68,$0.68 (1.46%)
+wednesday,open,-12.5%,CDW,"5,380",3.95,"25,090",$7.98,22.92,18.29,$2.36 (1.26%)
+wednesday,open,-0.2%,FIS,"3,710",2.64,"35,770",Financial Services,-$28.16,0,9.55,$2.08 (3.44%)
+wednesday,open,11.5%,ATI,"1,070",3.69,"6,040",Metals & Mining,$1.13,35.53,19.07,--
+wednesday,open,15.6%,DRVN,"588",2.84,"4,330",$0.22,112.61,18.47,--
+wednesday,open,-22.7%,EMR,"3,870",2.97,"52,210",$8.34,10.91,19.91,$2.08 (2.28%)
+wednesday,open,-2.2%,SMG,"1,160",2.64,"3,930",Chemicals,-$10.95,0,19.50,$2.64 (3.77%)
+wednesday,open,-12.3%,VRSK,"654",3.32,"33,080",$3.30,65.58,37.19,$1.36 (0.59%)
+wednesday,open,21.5%,WWE,"399",3.19,"7,820",Media,$1.88,47.06,35.63,$0.48 (0.46%)
+wednesday,open,6.2%,ABC,"63,810",3.28,"37,840",Health Care,$7.91,23.40,14.90,$1.94 (1.04%)
+wednesday,open,11.3%,ADNT,"3,880",3.09,"4,030",Auto Components,$0.12,335.88,13.34,--
+wednesday,open,-8.6%,BG,"16,390",3.21,"16,370",Food Products,$10.19,10.53,9.11,$2.65 (2.44%)
+wednesday,open,1.5%,GRMN,"1,260",3.47,"20,040",Consumer products,$5.01,20.79,19.00,$2.92 (2.76%)
+wednesday,open,24.9%,IMXI,"171",3.55,"882",Financial Services,$1.53,15.36,10.48,--
+wednesday,open,22.4%,XYL,"1,670",3.67,"26,920",Machinery,$2.05,72.37,32.13,$1.32 (1.17%)
+wednesday,open,68.7%,LPG,"130",3.97,"1,200",Energy,$4.28,6.96,7.48,--
+wednesday,open,39.8%,PUMP,"440",3.55,"1,200",Energy,$0.16,63.49,5.91,--
+wednesday,open,12.7%,SGEN,"561",2.97,"35,960",Biotechnology,-$3.47,0,0,--
+wednesday,open,-26.9%,SUN,"5,710",3.18,"4,610",Energy,$3.78,14.35,8.75,$3.37 (7.35%)
+wednesday,open,10.0%,TT,"4,610",3.90,"45,390",Building,$7.80,25.17,21.75,$3.00 (1.50%)
+wednesday,open,2.9%,WAT,"735",3.42,"16,310",$11.61,23.67,20.50,--
+wednesday,open,0.7%,EXC,"4,270",2.77,"41,670",Utilities,$2.26,18.59,16.93,$1.44 (3.44%)
+wednesday,open,4.8%,FTDR,"510",2.90,"2,850",$1.11,31.36,23.76,--
+wednesday,open,-19.7%,RGEN,"167",3.39,"9,550",$2.94,56.92,64.22,--
+wednesday,open,-1.6%,SID,"2,120",2.17,R$17.75B,Metals & Mining,-$0.09,0,8.81,--
+wednesday,open,2.9%,TRI,"1,660",3.43, CAD$80.52B,$2.37,56.29,37.43,$2.03 (1.50%)
+wednesday,open, - ,BGC,"475",not found,"1,830",Financial Services,--,0,5.12,--
+wednesday,open,7.5%,CMCO,"237",3.41,"1,210",Machinery,$1.68,25.08,14.13,$0.28 (0.66%)
+wednesday,open,-53.3%,CRTO,"231",2.31,"1,850",Media,-$0.42,0,10.60,--
+wednesday,open,9.9%,DNOW,"592",3.38,"1,220",$1.16,9.45,10.71,--
+wednesday,open,12.0%,PSN,"1,130",3.19,"5,180",Aerospace & Defense,$0.89,51.01,21.52,--
+wednesday,open,43.3%,RCM,"562",2.52,"7,230",Health Care,-$0.19,0,142.28,--
+wednesday,open,15.3%,ROAD,"438",3.18,"1,550",Construction,$0.42,71.49,30.67,--
+wednesday,open, - ,RXO,"1,010",2.53,"2,570",Road & Rail,$0.46,48.53,29.11,--
+wednesday,open,-14.5%,SHOO,"457",3.63,"2,540",$2.35,14.23,12.42,$0.84 (2.52%)
+wednesday,open,35.9%,YOU,"140",3.07,"3,630",Technology,-$0.66,0,55.76,--
+wednesday,open,51.5%,BGNE,"517",2.76,CN¥165.95B,Biotechnology,-$17.55,0,0,--
+wednesday,open,-30.9%,BRY,"175",3.83,"601",Energy,$3.95,2.00,14.26,$0.48 (6.15%)
+wednesday,open,-8.7%,GFF,"701",3.23,"2,390",Building,-$5.46,0,11.72,$0.50 (1.20%)
+wednesday,open,-3.1%,IBP,"656",3.97,"4,200",Consumer products,$8.44,17.60,17.47,$1.32 (0.89%)
+wednesday,open,-40.9%,LPX,"668",3.11,"5,480",Paper & Forest,$8.65,8.80,21.13,$0.96 (1.26%)
+wednesday,open,0.5%,MCS,"200",2.86,"483",Media,-$0.20,0,45.43,$0.20 (1.28%)
+wednesday,open,47.9%,OSW,"188",3.48,"1,280",$0.46,29.29,20.92,--
+wednesday,open,-4.4%,QUAD,"724",3.07,"312",-$0.29,0,--,--
+wednesday,open,4.2%,SMP,"374",3.24,"827",Auto Components,$2.16,17.30,10.01,$1.16 (3.04%)
+wednesday,open,-2.2%,SSRM,"313",2.81,"3,010",Metals & Mining,$0.73,19.23,14.75,$0.28 (1.92%)
+wednesday,close,6.8%,PYPL,"7,270",3.06,"84,590",Financial Services,$2.38,31.27,13.93,--
+wednesday,close,25.1%,SHOP,"1,620",2.41,"86,430",Technology,-$1.48,0,128.83,--
+wednesday,close,-22.3%,QCOM,"8,500",3.26,"147,240",Semiconductors,$9.40,13.97,14.61,$3.20 (2.42%)
+wednesday,close,-36.5%,OXY,"6,820",3.65,"56,300",Energy,$9.03,6.39,12.06,$0.72 (1.14%)
+wednesday,close,74.3%,U,"518",2.35,"17,190",Technology,-$2.65,0,63.78,--
+wednesday,close,49.0%,HOOD,"474",2.48,"11,500",Financial Services,-$1.29,0,0,--
+wednesday,close,25.9%,MELI,"3,270",4.41,"62,160",Retail,$12.06,100.58,55.70,--
+wednesday,close,5.8%,ETSY,"619",2.74,"12,540",Retail,-$4.93,0,39.30,--
+wednesday,close,-21.6%,ET,"20,350",3.50,"41,160",Energy,$1.35,9.87,8.58,$1.23 (9.26%)
+wednesday,close,-42.9%,APA,"1,740",3.79,"12,390",Energy,$6.51,6.09,7.22,$1.00 (2.47%)
+wednesday,close,65.6%,ALB,"2,450",4.08,"24,910",Chemicals,$31.18,6.78,10.83,$1.60 (0.75%)
+wednesday,close,17.0%,MGM,"3,820",3.33,"18,470",$5.12,9.54,19.58,$0.01 (0.02%)
+wednesday,close,-32.3%,MRO,"1,560",4.08,"16,220",Energy,$4.33,5.95,8.06,$0.40 (1.52%)
+wednesday,close, - ,JOBY,"182",2.29,"5,650",Airlines,-$0.52,0,0,--
+wednesday,close,28.1%,DASH,"505",2.70,"35,290",-$3.48,0,0,--
+wednesday,close,19.8%,HUBS,"119",3.03,"28,820",Technology,-$2.86,0,104.15,--
+wednesday,close,4.5%,IIPR,"5,180",3.94,"2,150",Real Estate,$5.60,13.62,13.98,$7.20 (9.09%)
+wednesday,close,-0.6%,GT,"1,830",2.55,"4,560",Auto Components,$0.01,911.51,10.16,--
+wednesday,close,95.1%,LMND,"948",2.20,"1,620",Insurance,-$4.16,0,0,--
+wednesday,close,-46.0%,CF,"163",4.05,"16,000",Chemicals,$15.35,5.29,10.74,$1.60 (1.95%)
+wednesday,close,17.0%,O,"16,980",3.71,"41,380",Real Estate,$1.35,46.24,43.60,$3.12 (5.12%)
+wednesday,close,3.6%,UPWK,"257",2.88,"1,390",-$0.37,0,20.13,--
+wednesday,close,9.2%,MET,"11,200",2.79,"48,220",Insurance,$2.25,27.37,7.25,$2.08 (3.30%)
+wednesday,close,16.1%,ACLS,"473",4.38,"6,560",Semiconductors,$5.67,34.67,28.22,--
+wednesday,close,-22.8%,NTR,"473",3.65, CAD$44.47B,Chemicals,$13.64,4.92,11.04,$2.12 (3.08%)
+wednesday,close,13.5%,TRIP,"468",3.06,"2,650",Media,-$0.15,0,13.13,--
+wednesday,close,-16.3%,INSG,"382",2.16,"90",Communications,-$0.47,0,0,--
+wednesday,close,9.4%,FICO,"491",3.38,"20,830",Technology,$15.08,54.34,36.29,--
+wednesday,close,3.6%,ANSS,"743",3.56,"29,310",Technology,$6.33,52.97,36.80,--
+wednesday,close,51.8%,BKCC,"4,840",2.41,"263",Financial Services,$0.09,40.53,7.72,$0.40 (11.05%)
+wednesday,close,-5.9%,CHRD,"1,080",4.41,"6,510",Energy,$39.10,3.86,6.22,$5.00 (3.19%)
+wednesday,close,-1.3%,CTSH,"1,000",3.46,"33,370",Technology,$4.53,14.47,14.74,$1.16 (1.76%)
+wednesday,close,13.6%,PACB,"767",2.35,"3,350",-$1.32,0,0,--
+wednesday,close,-17.7%,ROOT,"638",1.90,"156",Insurance,-$18.46,0,0,--
+wednesday,close,-8.4%,SBGI,"550",3.06,"852",Media,$3.59,3.41,19.02,--
+wednesday,close,-44.6%,CIVI,"3,020",4.53,"5,980",Energy,$16.48,4.40,5.88,$2.00 (2.67%)
+wednesday,close,-39.8%,CPE,"1,240",3.77,"2,550",Energy,$22.48,1.83,4.23,--
+wednesday,close,6.9%,DOX,"275",3.22,"11,320",Technology,$4.43,21.42,14.54,$1.74 (1.86%)
+wednesday,close,4.5%,MCK,"1,250",3.46,"54,530",Health Care,$25.85,15.32,14.51,$2.16 (0.54%)
+wednesday,close,-40.1%,SKLZ,"971",2.40,"253",Media,-$0.78,0,0,--
+wednesday,close,-2.3%,SPG,"1,880",3.32,"40,700",Real Estate,$6.60,18.83,19.06,$7.40 (5.94%)
+wednesday,close,26.8%,TPVG,"405",2.11,"447",Financial Services,-$0.51,0,6.84,$1.60 (12.68%)
+wednesday,close,18.9%,ATO,"1,280",3.23,"17,590",Utilities,$5.75,21.21,18.95,$2.96 (2.43%)
+wednesday,close,4.4%,CLX,"1,980",3.03,"18,810",Consumer products,$0.59,254.15,26.41,$4.80 (3.17%)
+wednesday,close,-22.8%,GRBK,"427",4.09,"2,570",Consumer products,$6.29,8.82,11.06,--
+wednesday,close,-8.1%,HLF,"640",2.59,"1,650",Consumer products,$2.51,6.55,5.72,--
+wednesday,close,-3.4%,NOG,"419",3.86,"3,350",Energy,$15.13,2.59,4.65,$1.48 (3.76%)
+wednesday,close,-2.1%,SDGR,"881",2.73,"3,610",Health Care,$0.19,251.18,0,--
+wednesday,close,-37.8%,VET,"453",3.88, CAD$2.97B,Energy,$6.36,2.11,4.70,$0.30 (2.18%)
+wednesday,close,6.9%,ASPN,"4,640",2.66,"585",Chemicals,-$1.15,0,0,--
+wednesday,close,5.8%,CAKE,"983",2.68,"1,900",$0.95,39.61,11.74,$1.08 (2.94%)
+wednesday,close,10.9%,GXO,"510",3.07,"7,910",$1.56,42.76,23.84,--
+wednesday,close,-9.1%,LNC,"158",1.96,"4,760",Insurance,-$19.14,0,3.75,$1.80 (6.42%)
+wednesday,close,28.6%,MKSI,"1,810",2.83,"7,290",Semiconductors,$2.21,49.25,26.20,$0.88 (0.81%)
+wednesday,close,168.9%,NEWT,"1,230",1.97,"438",Financial Services,$1.35,12.84,8.56,$0.72 (4.04%)
+wednesday,close,9.9%,RSI,"2,700",2.79,"849",-$0.48,0,0,--
+wednesday,close,5.7%,VAC,"532",3.33,"4,730",$9.45,11.26,11.22,$2.88 (2.24%)
+wednesday,close,8.4%,WMB,"572",3.37,"41,970",Energy,$2.12,16.18,18.74,$1.79 (5.20%)
+wednesday,close,2.8%,ADPT,"117",2.75,"1,220",-$1.36,0,0,--
+wednesday,close,-29.4%,CCRN,"137",3.87,"927",Health Care,$4.26,5.95,10.69,--
+wednesday,close,27.4%,EOLS,"721",2.32,"570",Pharmaceuticals,-$1.28,0,0,--
+wednesday,close,5.8%,MOD,"685",3.78,"1,960",Auto Components,$2.89,12.81,14.94,--
+wednesday,close,25.8%,NARI,"1,120",2.75,"3,260",Health Care,-$0.53,0,0,--
+wednesday,close,9.7%,NRDS,"154",3.30,"860",Financial Services,$0.01,430.04,196.25,--
+wednesday,close,3.7%,PK,"216",3.59,"2,840",Real Estate,$1.14,11.29,17.83,$0.60 (4.40%)
+wednesday,close, - ,PR,"260",not found,"6,360",Energy ,--,0,5.75,$0.20 (1.71%)
+wednesday,close,8.5%,PSA,"583",3.97,"49,500",Real Estate,$23.52,11.94,23.34,$12.00 (4.26%)
+wednesday,close,9.9%,QTWO,"1,680",2.39,"2,060",Technology,-$1.50,0,43.41,--
+wednesday,close,37.2%,RELY,"1,600",2.53,"3,430",Financial Services,-$0.67,0,0,--
+wednesday,close,0.2%,WSC,"363",3.81,"9,700",Construction,$2.62,17.62,23.30,--
+wednesday,close,-2.7%,AEE,"4,660",3.41,"22,500",Utilities,$4.12,20.72,18.09,$2.52 (2.94%)
+wednesday,close,4.0%,AFG,"788",3.23,"10,360",Insurance,$9.61,12.63,9.83,$2.52 (2.07%)
+wednesday,close,-76.7%,ALLO,"557",2.20,"723",Biotechnology,-$2.44,0,0,--
+wednesday,close,21.2%,ARIS,"268",3.06,"630",$0.24,86.28,11.77,$0.36 (3.29%)
+wednesday,close,-0.9%,BOOT,"152",3.12,"2,810",Retail,$5.62,16.50,18.58,--
+wednesday,close,-31.5%,CHRW,"359",2.97,"11,630",$6.54,14.81,22.76,$2.44 (2.44%)
+wednesday,close,-4.9%,CNXN,"461",3.65,"1,270",$3.09,15.58,13.74,$0.32 (0.66%)
+wednesday,close,2.3%,CSGS,"731",2.90,"1,630",$1.91,27.76,14.06,$1.12 (2.17%)
+wednesday,close,-5.4%,EPR,"322",3.71,"3,360",Real Estate,$2.23,20.06,18.00,$3.36 (7.53%)
+wednesday,close,44.0%,EVH,"232",2.88,"3,420",Health Care,-$0.38,0,64.08,--
+wednesday,close,-10.2%,HDSN,"1,540",4.47,"410",$1.90,4.57,6.28,--
+wednesday,close,1.5%,HI,"154",2.97,"3,610",Machinery,$8.75,5.89,13.06,$0.88 (1.69%)
+wednesday,close,6.6%,MMS,"219",3.23,"5,090",$2.81,29.57,19.58,$1.12 (1.34%)
+wednesday,close,3.7%,NUVA,"400",3.06,"2,160",Health Care,$0.38,107.04,17.44,--
+wednesday,close,-65.7%,NYMT,"2,280",1.83,"943",Real Estate,-$2.68,0,13.04,$1.20 (11.82%)
+wednesday,close,-5.2%,OHI,"530",2.71,"7,380",Real Estate,$1.12,27.01,23.69,$2.68 (8.40%)
+wednesday,close,-6.1%,PTVE,"158",3.31,"1,530",Packaging,$0.78,10.89,9.29,$0.40 (4.65%)
+wednesday,close,-11.2%,RYN,"2,320",2.58,"4,910",Real Estate,$0.57,57.04,56.57,$1.14 (3.44%)
+wednesday,close,-21.4%,UFPI,"155",3.92,"6,320",Building,$9.91,10.49,11.91,$1.00 (0.97%)
+wednesday,close,-5.8%,ATUS,"277",2.30,"1,540",Media,$0.05,64.56,14.76,--
+wednesday,close,1.9%,CERS,"361",2.67,"547",Health Care,-$0.26,0,0,--
+wednesday,close,-22.7%,COOK,"172",2.03,"553",Consumer products,-$2.98,0,0,--
+wednesday,close,3.7%,CSV,"3,760",3.22,"483",$2.17,14.33,12.37,$0.44 (1.36%)
+wednesday,close,6.2%,CW,"486",3.68,"7,340",Aerospace & Defense,$8.06,23.63,20.33,$0.80 (0.42%)
+wednesday,close,-3.1%,INFA,"432",2.30,"6,290",Technology,-$0.59,0,21.73,--
+wednesday,close,-8.3%,KN,"138",2.35,"1,660",-$4.95,0,13.70,--
+wednesday,close,-23.5%,MAX,"506",1.80,"640",Media,-$1.38,0,0,--
+wednesday,close,109.8%,MKL,"1,040",3.00,"19,330",Insurance,$20.17,71.08,17.94,--
+wednesday,close,38.8%,OM,"328",2.34,"1,010",Health Care,-$3.48,0,0,--
+wednesday,close,-8.4%,AMK,"129",3.36,"2,240",Financial Services,$1.33,22.78,12.50,--
+wednesday,close,6.6%,BKH,"218",3.06,"4,040",Utilities,$3.85,15.84,15.78,$2.52 (4.18%)
+wednesday,close,-10.4%,CHRS,"258",1.97,"455",Biotechnology,-$3.42,0,0,--
+wednesday,close,-8.1%,ECPG,"400",3.00,"1,260",Financial Services,$1.50,33.55,7.22,--
+wednesday,close,4.6%,GAIN,"147",2.56,"459",Financial Services,$1.07,12.91,12.36,$0.96 (7.03%)
+thursday,open,5.0%,BUD,"15,540",2.72,€106.02B,Beverages,$3.79,15.53,15.89,$0.83 (1.44%)
+thursday,open,6.5%,WBD,"10,470",2.28,"31,690",Media,-$3.65,0,0,--
+thursday,open,-46.7%,LNG,"4,270",4.46,"39,390",Energy,$31.43,5.10,13.33,$1.60 (0.99%)
+thursday,open,-93.3%,MRNA,"320",3.16,"45,000",Biotechnology,$11.81,9.41,0,--
+thursday,open,5.9%,EXPE,"3,370",3.33,"17,790",$2.15,54.07,11.73,--
+thursday,open,-6.2%,W,"13,930",1.79,"8,740",Retail,-$12.42,0,0,--
+thursday,open,-36.7%,COP,"1,110",3.91,"142,450",Energy,$12.94,8.99,12.08,$2.40 (2.04%)
+thursday,open,-17.1%,HAS,"47,190",2.45,"8,950",Leisure Products,$0.86,74.45,13.32,$2.80 (4.34%)
+thursday,open,3.8%,CI,"306",3.54,"86,780",Health Care,$22.58,12.85,10.67,$4.92 (1.67%)
+thursday,open,4.9%,FVRR,"3,010",2.73,"1,140",-$1.55,0,17.65,--
+thursday,open,5.3%,REGN,"4,710",3.33,"81,380",Biotechnology,$36.69,19.46,17.64,--
+thursday,open,11.3%,PWR,"3,290",3.68,"29,270",Construction,$3.39,58.35,25.68,$0.32 (0.16%)
+thursday,open,3.2%,APD,"198",3.37,"67,450",Chemicals,$9.77,30.98,24.61,$7.00 (2.29%)
+thursday,open,13.8%,LSPD,"1,470",2.35, CAD$3.44B,Technology,-$7.05,0,100.61,--
+thursday,open,35.3%,AUPH,"1,270",3.03,"1,660",Biotechnology,-$0.68,0,0,--
+thursday,open,-0.3%,BLD,"1,160",3.94,"8,700",Consumer products,$18.19,15.07,16.81,--
+thursday,open,-2.9%,EPAM,"2,030",3.73,"13,370",Technology,$7.28,30.95,22.44,--
+thursday,open,3.9%,VMC,"7,280",3.71,"29,340",Construction,$4.52,48.54,31.37,$1.72 (0.78%)
+thursday,open,-34.8%,DINO,"1,080",3.84,"10,020",Energy,$16.59,3.09,8.06,$1.80 (3.46%)
+thursday,open,-13.2%,DQ,"2,310",4.70,"2,870",Semiconductors,$20.23,1.84,5.43,--
+thursday,open,95.6%,FCNCA,"519",4.48,"20,340",Banking,$707.57,1.98,7.64,$3.00 (0.21%)
+thursday,open,1.9%,FUN,"4,070",3.33,"2,000",$5.06,7.64,10.78,$1.20 (3.08%)
+thursday,open,5.3%,K,"514",2.77,"22,930",Food Products,$2.44,27.42,15.63,$2.36 (3.53%)
+thursday,open,57.9%,STWD,"4,830",3.26,"6,500",Real Estate,$2.92,7.18,10.31,$1.92 (9.26%)
+thursday,open,4.1%,BDX,"8,390",2.59,"80,790",Health Care,$5.34,52.91,20.74,$3.64 (1.31%)
+thursday,open,27.4%,CMI,"5,500",3.49,"36,920",Machinery,$17.71,14.63,13.13,$6.72 (2.58%)
+thursday,open,-49.2%,CNQ,"102",3.85, CAD$88.18B,Energy,$6.56,9.15,11.46,$2.73 (4.49%)
+thursday,open,-17.9%,IDCC,"169",3.78,"2,480",Technology,$3.12,26.46,25.17,$1.40 (1.51%)
+thursday,open,12.4%,PTLO,"6,480",3.23,"1,680",$0.20,165.77,56.39,--
+thursday,open,-10.1%,SO,"335",3.29,"78,880",Utilities,$3.05,23.52,17.43,$2.80 (3.87%)
+thursday,open,48.9%,ALNY,"2,040",2.65,"24,330",Biotechnology,-$8.58,0,0,--
+thursday,open,3.7%,BHC,"630",2.06, CAD$4.60B,Pharmaceuticals,-$0.98,0,2.69,--
+thursday,open,24.3%,FOUR,"1,690",3.73,"5,760",Financial Services,$1.17,59.16,25.70,--
+thursday,open,14.0%,H,"103",3.54,"13,360",$5.37,22.79,37.31,$0.60 (0.47%)
+thursday,open,63.2%,OCSL,"383",3.59,"1,570",Financial Services,$0.13,156.20,8.03,$2.20 (10.78%)
+thursday,open,-13.9%,NTLA,"9,190",2.50,"3,730",Biotechnology,-$4.90,0,0,--
+thursday,open,-34.7%,PBF,"687",3.69,"5,980",Energy,$24.38,1.82,7.26,$0.80 (1.69%)
+thursday,open,104.6%,PRVA,"274",3.17,"3,230",Health Care,$0.13,198.74,103.02,--
+thursday,open,18.9%,SHAK,"4,830",2.79,"3,210",-$0.39,0,371.78,--
+thursday,open,-59.2%,CIM,"1,890",1.97,"1,480",Real Estate,-$1.14,0,8.29,$0.72 (11.46%)
+thursday,open,-21.7%,ICE,"1,350",3.41,"64,460",Financial Services,$2.57,44.64,19.96,$1.68 (1.46%)
+thursday,open,4.7%,IRM,"789",3.19,"17,660",Real Estate,$1.98,30.49,32.58,$2.47 (4.03%)
+thursday,open,-28.3%,MUR,"252",3.91,"6,750",Energy,$8.08,5.32,7.34,$1.10 (2.54%)
+thursday,open,12.4%,PLNT,"532",3.71,"6,020",$1.25,57.03,27.65,--
+thursday,open,1.9%,PZZA,"1,510",2.95,"2,720",$2.61,30.31,26.81,$1.68 (2.03%)
+thursday,open,-13.6%,SNDR,"4,820",3.65,"5,520",Road & Rail,$2.59,11.90,14.33,$0.36 (1.17%)
+thursday,open,-20.4%,TRGP,"748",3.38,"18,220",Energy,$3.88,20.48,13.24,$2.00 (2.44%)
+thursday,open,-18.2%,WMS,"8,730",3.76,"9,690",Building,$6.22,19.11,22.17,$0.56 (0.46%)
+thursday,open,47.0%,APO,"648",2.48,"46,420",Financial Services,-$2.78,0,11.15,$1.72 (2.11%)
+thursday,open,-7.7%,ARW,"4,550",3.22,"8,050",$22.45,6.03,9.70,--
+thursday,open,10.1%,BRKR,"548",3.50,"10,080",$2.10,32.37,24.48,$0.20 (0.29%)
+thursday,open,-16.7%,CEG,"886",2.52,"31,350",Utilities,-$0.52,0,19.96,$1.13 (1.17%)
+thursday,open,-2.7%,DLX,"122",2.56,"825",$1.35,14.12,6.08,$1.20 (6.32%)
+thursday,open,28.0%,ENTG,"5,010",2.72,"16,420",Semiconductors,-$0.03,0,37.65,$0.40 (0.36%)
+thursday,open,-14.1%,NVMI,"945",3.82,"3,580",Semiconductors,$4.42,25.43,28.30,--
+thursday,open,19.6%,PH,"3,540",3.56,"52,600",Machinery,$11.55,35.00,18.09,$5.92 (1.44%)
+thursday,open,-1.7%,SBH,"1,770",3.06,"1,290",Retail,$1.46,8.09,5.81,--
+thursday,open,-0.2%,SRE,"2,370",3.13,"46,890",Utilities,$7.75,19.13,16.52,$4.76 (3.19%)
+thursday,open,7.3%,APG,"169",3.36,"6,880",Construction,$0.23,110.96,17.29,--
+thursday,open,-35.6%,BIP,"2,050",,"23,260",Utilities,$0.11,456.17,50.19,$1.53 (4.29%)
+thursday,open,3.8%,CARS,"643",3.18,"1,520",Media,$0.35,62.51,40.85,--
+thursday,open, - ,CCLD,"159",not found,"52",Health Care,--,0,0,--
+thursday,open,-10.9%,COMM,"516",2.32,"948",Communications,-$5.75,0,2.10,--
+thursday,open,3.1%,EPC,"795",2.74,"2,020",Consumer products,$1.82,21.21,14.27,$0.60 (1.52%)
+thursday,open,3.2%,GSL,"1,040",4.23,"772",Marine,$9.75,2.17,2.29,$1.50 (6.99%)
+thursday,open,8.5%,ITT,"812",3.82,"8,210",Machinery,$4.73,20.93,19.06,$1.16 (1.16%)
+thursday,open,2.6%,MIDD,"391",3.61,"8,100",Machinery,$8.26,18.00,14.13,--
+thursday,open,2.8%,MLAB,"718",2.42,"689",$0.17,741.35,129.59,$0.64 (0.50%)
+thursday,open,-6.8%,PBI,"1,300",2.05,"692",$0.05,82.55,30.01,$0.20 (5.08%)
+thursday,open,-3.8%,PGTI,"268",,"1,650",Building,$1.83,14.93,13.20,--
+thursday,open,9.2%,SABR,"974",2.54,"1,360",-$1.84,0,0,--
+thursday,open,12.7%,TKR,"980",3.74,"6,720",Machinery,$5.60,16.34,11.99,$1.32 (1.42%)
+thursday,open,10.6%,TNK,"5,940",4.38,"1,440",Energy ,$11.93,3.49,4.82,$1.00 (2.29%)
+thursday,open,3.5%,TRMB,"5,180",2.79,"13,330",$1.87,28.47,19.32,--
+thursday,open,8.3%,WCC,"609",3.59,"9,000",$15.59,10.99,9.70,$1.50 (0.85%)
+thursday,open,17.2%,AGIO,"778",2.74,"1,470",Biotechnology,-$3.94,0,0,--
+thursday,open,10.2%,BALY,"238",2.75,"751",-$4.52,0,24.45,--
+thursday,open,25.1%,BCRX,"166",2.67,"1,400",Biotechnology,-$1.21,0,0,--
+thursday,open,4.1%,BV,"2,290",2.36,"721",-$0.15,0,8.47,--
+thursday,open,-13.4%,CGNX,"210",3.05,"9,430",$1.00,54.24,41.58,$0.28 (0.51%)
+thursday,open,-23.5%,COHU,"548",3.48,"2,070",Semiconductors,$1.88,22.81,20.01,--
+thursday,open,-45.2%,CQP,"363",3.57,"24,860",Energy,$6.89,7.46,13.60,$3.10 (6.00%)
+thursday,open,-11.7%,DIN,"130",2.62,"945",$6.88,8.94,9.40,$2.04 (3.38%)
+thursday,open,2.0%,DNB,"670",2.78,"5,180",-$0.01,0,11.38,$0.20 (1.69%)
+thursday,open,-4.6%,DTC,"1,010",2.83,"562",Leisure Products,-$0.03,0,5.81,--
+thursday,open,1.8%,GOLF,"2,670",2.95,"4,020",Leisure Products,$3.08,18.99,19.85,$0.78 (1.31%)
+thursday,open,6.5%,HGV,"1,240",3.63,"5,180",$3.28,13.85,10.21,--
+thursday,open,0.3%,HII,"107",3.47,"9,160",Aerospace & Defense,$14.23,16.13,14.59,$4.96 (2.16%)
+thursday,open,12.9%,TCPC,"3,500",3.27,"698",Financial Services,$0.02,671.25,7.10,$1.36 (11.26%)
+thursday,open,2.4%,TPX,"306",3.08,"7,910",Consumer products,$2.32,19.29,15.03,$0.44 (0.99%)
+thursday,open,-10.1%,ACIW,"140,000,000",2.67,"2,510",Technology,$0.87,26.62,17.33,--
+thursday,open,-42.7%,AHH,"377",3.23,"1,080",Real Estate,$0.86,18.64,33.77,$0.78 (6.28%)
+thursday,open,-9.9%,AMTX,"674",2.03,"271",Energy,-$3.18,0,0,--
+thursday,open, - ,AUTL,"230,000,000",2.23,"547",Biotechnology,-$0.88,0,0,--
+thursday,open,-4.6%,BKI,"109",2.47,"10,950",Technology,$1.48,47.67,30.94,--
+thursday,open,-1.8%,CLVT,"135",2.87,"6,430",-$5.97,0,10.73,--
+thursday,open,-47.7%,CMRX,"198",3.42,"105",Biotechnology,$2.00,0.60,0,--
+thursday,open,2.2%,DOC,"354",3.07,"3,480",Real Estate,$0.40,34.30,67.50,$0.92 (6.24%)
+thursday,open,-1.5%,IDA,"201",2.77,"5,190",Utilities,$5.30,19.29,19.31,$3.16 (3.07%)
+thursday,open,7.0%,INSM,"1,490",2.29,"3,010",Biotechnology,-$4.00,0,0,--
+thursday,open,-1.4%,JOUT,"278",3.30,"604",Leisure Products,$4.37,13.57,10.42,$1.24 (2.10%)
+thursday,open,-13.4%,MDU,"1,040",2.70,"4,500",Construction,$1.84,12.04,13.78,$0.88 (3.98%)
+thursday,open,8.4%,MMP,"242",3.63,"13,390",Energy,$5.61,11.70,12.67,$4.20 (6.34%)
+thursday,open,12.9%,PAX,"730",3.28,"2,240",Financial Services,$0.63,24.09,9.23,$0.90 (5.94%)
+thursday,open,0.4%,PBH,"736",3.12,"3,230",Pharmaceuticals,-$1.65,0,14.60,--
+thursday,open,9.6%,SRI,"687",2.67,"562",Auto Components,-$0.50,0,63.24,--
+thursday,open,3.6%,TFX,"191",3.10,"11,800",Health Care,$7.67,32.52,17.86,$1.36 (0.54%)
+thursday,open,-6.3%,TGNA,"578",3.60,"3,800",Media,$2.67,6.34,7.64,$0.38 (2.25%)
+thursday,open,3.1%,BDC,"107",3.72,"4,110",$6.45,14.58,13.03,$0.20 (0.21%)
+thursday,open,7.2%,FOCS,"437",2.97,"4,110",Financial Services,$0.94,66.25,12.03,--
+thursday,open,41.5%,ICD,"138",3.20,"44",Energy,-$0.48,0,0,--
+thursday,open,91.9%,ITCI,"205",3.19,"5,930",Pharmaceuticals,-$2.41,0,0,--
+thursday,open,21.0%,KYMR,"472",2.23,"1,210",Biotechnology,-$2.73,0,0,--
+thursday,open,13.4%,LAUR,"208",3.19,"2,020",$0.55,23.14,10.22,--
+thursday,open,-8.9%,LCUT,"266",2.71,"119",Consumer products,-$0.72,0,7.67,$0.17 (3.09%)
+thursday,open,5.2%,MGPI,"629",3.26,"2,510",Beverages,$6.32,17.99,21.27,$0.48 (0.42%)
+thursday,open,6.6%,NWN,"259",3.33,"1,550",Utilities,$2.85,15.19,13.68,$1.96 (4.56%)
+thursday,open,19.8%,OCN,"179",2.52,"258",Financial Services,-$9.63,0,8.78,--
+thursday,close,8.4%,AMZN,"131,420",3.03,"1,370,000",Retail,$0.41,319.42,67.02,--
+thursday,close,-12.2%,AAPL,"72,810",3.51,"3,090,000",Technology,$5.95,32.76,29.97,$0.96 (0.49%)
+thursday,close,-100.0%,COIN,"170,000,000",2.03,"23,140",Financial Services,-$9.82,0,0,--
+thursday,close,15.8%,SQ,"5,100",2.48,"48,710",Financial Services,-$0.60,0,39.24,--
+thursday,close,2.2%,ABNB,"2,150",3.79,"96,300",$3.02,47.47,41.13,--
+thursday,close,59.5%,DKNG,"743",2.67,"14,680",-$2.87,0,0,--
+thursday,close,30.3%,NET,"306",3.10,"22,830",Technology,-$0.58,0,184.71,--
+thursday,close,26.2%,FTNT,"1,300",4.00,"61,030",Technology,$1.21,63.13,49.34,--
+thursday,close,-29.3%,PBR,"24,520",4.08,R$412.83B,Energy,$5.89,2.27,8.51,--
+thursday,close,1.3%,AMGN,"6,680",3.58,"125,180",Biotechnology,$14.72,15.81,12.48,$8.52 (3.64%)
+thursday,close,-56.6%,OPEN,"1,820",2.22,"3,320",Real Estate,-$2.30,0,0,--
+thursday,close,20.2%,BKNG,"5,160",3.84,"110,860",$105.94,27.55,20.34,--
+thursday,close,2.6%,GILD,"6,420",3.16,"94,970",Biotechnology,$4.42,17.01,10.06,$3.00 (3.94%)
+thursday,close,14.8%,LTHM,"251",4.53,"4,420",Chemicals,$1.62,13.20,11.45,--
+thursday,close,19.9%,TEAM,"911",2.84,"46,980",Technology,-$2.08,0,84.41,--
+thursday,close,27.0%,DOCN,"170",2.66,"4,400",Technology,-$0.43,0,23.42,--
+thursday,close,-14.8%,WW,"229",2.06,"916",-$5.14,0,16.41,--
+thursday,close,12.6%,CRSR,"320",2.52,"1,890",Technology,-$0.55,0,26.95,--
+thursday,close,-52.1%,SBLK,"200",3.03,"1,870",Marine,$4.27,4.23,4.34,$1.40 (7.74%)
+thursday,close,-68.3%,SWN,"1,310",3.97,"7,110",Energy,$5.86,1.10,7.53,--
+thursday,close,-15.9%,EXPI,"1,190",3.00,"3,800",Real Estate,$0.05,474.80,99.12,$0.18 (0.72%)
+thursday,close,-54.6%,RDFN,"276",1.66,"1,660",Real Estate,-$2.65,0,0,--
+thursday,close,21.5%,AL,"677",3.08,"4,700",$4.13,10.24,7.72,$0.80 (1.89%)
+thursday,close,10.3%,MSI,"2,360",3.72,"48,010",Communications,$7.96,34.94,24.25,$3.52 (1.23%)
+thursday,close,41.1%,MAIN,"120",3.06,"3,400",Financial Services,$3.21,13.29,10.69,$2.76 (6.53%)
+thursday,close,16.6%,MCHP,"2,290",4.15,"51,130",Semiconductors,$4.03,22.85,14.84,$1.53 (1.63%)
+thursday,close,7.3%,SYK,"4,820",3.51,"107,580",Health Care,$6.87,40.95,26.05,$3.00 (1.06%)
+thursday,close,5.5%,FND,"1,150",3.48,"12,210",Retail,$2.79,40.85,38.59,--
+thursday,close,39.1%,GSBD,"108",2.65,"1,560",Financial Services,$0.41,36.46,6.39,$1.80 (12.60%)
+thursday,close,31.8%,PCTY,"302",4.13,"12,750",$2.10,107.43,39.90,--
+thursday,close,19.8%,TRUP,"263",2.16,"1,270",Insurance,-$1.48,0,0,--
+thursday,close,8.9%,YELP,"325",3.09,"3,090",Media,$0.51,85.62,25.01,--
+thursday,close,-4.2%,AES,"2,950",2.88,"14,480",Utilities,-$0.71,0,11.59,$0.68 (3.14%)
+thursday,close,3.3%,CTVA,"614",3.03,"39,980",Chemicals,$1.64,33.94,16.96,$0.60 (1.06%)
+thursday,close,38.9%,FDUS,"1,870",2.89,"524",Financial Services,$1.61,13.23,9.27,$1.64 (7.82%)
+thursday,close,13.0%,MNST,"105",4.06,"60,180",Beverages,$1.22,46.47,34.29,--
+thursday,close,-72.6%,ABCL,"317",2.21,"2,230",-$0.18,0,0,--
+thursday,close,30.2%,BE,"991",2.39,"3,720",-$1.42,0,171.05,--
+thursday,close,-24.6%,CLFD,"3,280",4.00,"713",Communications,$3.56,13.12,41.66,--
+thursday,close,-4.0%,ED,"133",2.94,"32,780",Utilities,$7.02,13.16,19.67,$3.24 (3.42%)
+thursday,close,9.0%,FIGS,"129",3.40,"1,230",$0.08,86.63,87.64,--
+thursday,close,106.7%,TMDX,"140",3.26,"2,970",Health Care,-$0.87,0,0,--
+thursday,close,22.1%,TXG,"698",2.61,"7,320",-$1.52,0,0,--
+thursday,close,1.0%,BIO,"288",2.58,"12,340",-$6.35,0,25.85,--
+thursday,close,-12.8%,DMTK,"5,370",2.03,"101",Biotechnology,-$3.85,0,0,--
+thursday,close,-27.5%,EOG,"945",4.18,"76,440",Energy,$15.99,8.14,10.87,$3.30 (2.49%)
+thursday,close, - ,GEN,"222",3.21,"12,460",Technology,$2.09,9.24,9.26,$0.50 (2.57%)
+thursday,close,-11.6%,GPRO,"207",2.15,"647",Consumer products,-$0.05,0,13.83,--
+thursday,close,1.1%,SVM,"1,090",3.06, CAD$707.78M,Metals & Mining,$0.11,26.03,9.93,$0.03 (0.80%)
+thursday,close,6.6%,VTR,"276",2.69,"19,810",Real Estate,-$0.17,0,174.69,$1.80 (3.71%)
+thursday,close,32.2%,AAON,"439",3.68,"5,710",Building,$2.15,47.93,34.93,$0.24 (0.23%)
+thursday,close,19.8%,ALHC,"351",2.86,"1,170",Health Care,-$0.80,0,0,--
+thursday,close,4.1%,APLE,"472",3.56,"3,540",Real Estate,$0.70,22.15,17.88,$0.96 (6.19%)
+thursday,close,-1.5%,BGS,"559",2.29,"958",Food Products,-$0.44,0,11.91,$0.76 (5.73%)
+thursday,close,0.8%,BWXT,"230",3.29,"6,310",Aerospace & Defense,$2.62,26.26,22.32,$0.92 (1.33%)
+thursday,close,-54.9%,CARG,"250",3.45,"2,570",Media,$2.34,9.44,21.92,--
+thursday,close,-20.7%,FNKO,"109",2.06,"414",Leisure Products,-$1.54,0,11.63,--
+thursday,close,50.7%,HTGC,"3,010",2.81,"2,390",Financial Services,$1.43,12.11,8.64,$1.56 (9.30%)
+thursday,close,30.8%,MTZ,"162",2.62,"9,290",Construction,-$0.14,0,20.92,--
+thursday,close,13.7%,NINE,"1,480",3.26,"175",Energy,$0.46,11.50,35.22,--
+thursday,close,64.0%,OTEX,"1,840",2.75, CAD$15.16B,Technology,$1.11,38.12,9.07,$0.97 (2.26%)
+thursday,close,20.7%,POST,"1,140",2.76,"5,440",Food Products,$6.08,13.59,18.14,--
+thursday,close,28.1%,SPT,"857",2.84,"3,200",Technology,-$0.93,0,505.53,--
+thursday,close,-0.5%,TPC,"1,110",2.19,"436",Construction,-$4.62,0,11.01,--
+thursday,close,65.6%,AGL,"124",2.90,"7,940",Health Care,-$0.22,0,972.33,--
+thursday,close,13.4%,ASRT,"2,950",4.00,"322",Pharmaceuticals,$1.90,3.31,9.62,--
+thursday,close,18.5%,EB,"443",2.46,"1,150",Media,-$0.51,0,0,--
+thursday,close,-6.7%,EXR,"402",3.90,"29,750",Real Estate,$5.96,34.91,22.64,$4.04 (2.89%)
+thursday,close,-1.2%,FOXF,"1,060",3.97,"4,600",Auto Components,$4.69,23.12,19.26,--
+thursday,close,4.4%,GDDY,"236",3.12,"11,910",Technology,$2.11,35.97,23.01,--
+thursday,close,5.2%,KTOS,"886",2.24,"1,940",Aerospace & Defense,-$0.23,0,34.33,--
+thursday,close,-6.0%,LNT,"202",2.87,"13,510",Utilities,$2.61,20.59,18.38,$1.80 (3.35%)
+thursday,close,-34.8%,OPK,"1,690",1.76,"1,440",Health Care,-$0.40,0,0,--
+thursday,close,-30.3%,PBA,"262",3.26, CAD$22.76B,Energy,$3.75,8.33,14.47,$2.02 (6.39%)
+thursday,close,34.2%,PGNY,"294",3.84,"3,850",Health Care,$0.43,89.46,74.39,--
+thursday,close,32.9%,PLYA,"1,050",3.79,"1,240",$0.35,21.92,13.59,--
+thursday,close,-66.9%,VIR,"811",2.69,"1,890",Biotechnology,-$1.07,0,0,--
+thursday,close,-3.0%,WERN,"576",3.13,"2,980",Road & Rail,$3.49,13.38,15.04,$0.56 (1.19%)
+thursday,close,-4.5%,ACA,"515",3.06,"3,700",Construction,$5.74,13.20,29.42,$0.20 (0.26%)
+thursday,close,1.0%,ATSG,"118",2.88,"1,440",$2.03,8.54,11.24,--
+thursday,close,6.3%,CHUY,"702",3.27,"754",$1.29,31.99,22.76,--
+thursday,close,-3.8%,COLD,"383",3.00,"8,640",Real Estate,-$0.02,0,84.38,$0.88 (2.71%)
+thursday,close,-0.8%,GDYN,"125",3.00,"780",Technology,-$0.46,0,23.59,--
+thursday,close,0.9%,LOCO,"179",2.56,"384",$0.65,16.25,13.35,--
+thursday,close, - ,MNMD,"420",not found,"190",Pharmaceuticals,--,0,0,--
+thursday,close,7.0%,PRDO,"569",3.23,"901",$1.43,9.17,9.77,--
+thursday,close,15.8%,RYAN,"106",3.60,"11,260",Insurance,$0.28,149.63,28.04,--
+thursday,close,28.2%,SAND,"259",2.94, CAD$2.11B,Metals & Mining,$0.28,18.86,65.03,$0.06 (1.09%)
+thursday,close,-0.3%,SKT,"202",3.19,"2,450",Real Estate,$0.80,29.12,29.84,$1.00 (4.27%)
+thursday,close,18.1%,SNCY,"100",3.15,"1,210",Airlines,$0.87,23.15,10.51,--
+thursday,close,0.7%,TNDM,"173",2.28,"2,260",Health Care,-$3.16,0,0,--
+thursday,close,13.1%,UDMY,"321",2.58,"1,670",-$1.18,0,0,--
+thursday,close, - ,VXRT,"636",2.39,"107",Biotechnology,-$0.79,0,0,--
+thursday,close,-10.3%,ZEUS,"988",3.39,"621",Metals & Mining,$5.50,9.78,16.03,$0.50 (0.90%)
+thursday,close,-7.2%,AIP,"110",2.53,"268",Technology,-$0.85,0,0,--
+thursday,close,3.2%,CRIS,"315",2.29,"95",Biotechnology,-$0.55,0,0,--
+thursday,close,-10.5%,DM,"258",2.38,"585",Machinery,-$2.26,0,0,--
+thursday,close,-1.4%,ENV,"332",2.03,"3,370",Technology,-$2.00,0,24.75,--
+thursday,close,16.6%,EVC,"129",2.83,"419",Media,$0.21,22.94,8.16,$0.20 (4.18%)
+thursday,close,-8.4%,GDOT,"280",2.77,"1,010",Financial Services,$1.92,10.11,9.38,--
+thursday,close,18.6%,GH,"151",2.41,"4,470",Health Care,-$6.47,0,0,--
+thursday,close,6.1%,GMED,"485",3.58,"6,050",Health Care,$1.98,30.05,23.89,--
+thursday,close,16.3%,HAYN,"137",,"0",,,,
+thursday,close,14.5%,ICFI,"208",,"2,210",$3.31,35.19,17.12,$0.56 (0.48%)
+thursday,close,4.2%,LOPE,"654",3.52,"3,320",$6.07,17.81,15.66,--
+thursday,close,100.0%,LXRX,"132",2.00,"485",Biotechnology,-$0.58,0,0,--
+thursday,close,5.0%,NNBR,"242",2.13,"0",,,,
+thursday,close,22.2%,NTRA,"122",,"5,170",Biotechnology,-$4.88,0,0,--
+thursday,close,-33.5%,POWI,"356",,"0",,,,
+thursday,close,244.5%,PRTA,"241",,"0",,,,
+thursday,close,12.9%,STKS,"206",,"0",,,,
+thursday,close,-8.6%,UPLD,"300",,"0",,,,
+thursday,close,-4.8%,VCTR,"153",3.34,"2,210",Financial Services,$3.63,8.74,6.80,$1.28 (3.86%)
+thursday,close,-22.6%,AJX,"130",,"0",,,,
+thursday,close,-93.5%,CYTK,"107",,"0",,,,
+thursday,close,3.9%,FAT,"187",,"123",-$8.16,0,0,$0.56 (7.66%)
+thursday,close,36.1%,OFS,"406",,"139",Financial Services,-$0.90,0,7.70,$1.32 (12.75%)
+thursday,close,30.0%,SGHT,"408",2.57,"0",,,,
+friday,open,36.2%,FUBO,"302",2.16,"984",Media,-$2.23,0,0,--
+friday,open,1,342,300.0%,FSR,"134",,"0",,,,
+friday,open,-14.2%,ENB,"8,880",2.86, CAD$97.57B,Energy,$0.89,40.74,15.84,$2.69 (7.31%)
+friday,open,10.7%,MGA,"10,360",2.49, CAD$24.14B,Auto Components,$1.53,41.86,11.23,$1.84 (2.86%)
+friday,open,3.4%,D,"3,720",3.33,"45,220",Utilities,$1.44,37.88,13.82,$2.67 (4.99%)
+friday,open,15.3%,CNK,"858",,"0",,,,
+friday,open,-1.3%,FYBR,"1,440",,"0",,,,
+friday,open,41.7%,TIXT,"884",3.48, CAD$3.38B,$0.60,15.71,7.00,--
+friday,open,-40.0%,XPO,"1,940",2.94,"8,300",Road & Rail,$8.20,8.71,25.66,--
+friday,open,10.7%,ACMR,"116",,"0",,,,
+friday,open,-0.3%,BEP,"1,270",3.06, CAD$11.27B,Utilities,-$0.51,0,0,$1.35 (4.63%)
+friday,open,-8.3%,GTN,"796",,"0",,,,
+friday,open,-6.7%,PAA,"15,260",3.40,"10,290",Energy,$1.51,9.74,10.83,$1.07 (7.19%)
+friday,open,9.3%,TU,"3,770",2.74, CAD$33.97B,Telecommunication,$0.76,23.47,20.31,$1.10 (6.20%)
+friday,open,9.9%,AXL,"1,580",,"0",,,,
+friday,open,9.4%,FLR,"3,610",,"4,440",Construction,-$0.35,0,14.40,--
+friday,open,-27.7%,CLMT,"1,030",,"0",,,,
+friday,open,2.8%,GTES,"932",3.24,"3,880",Machinery,$0.76,17.95,10.54,--
+friday,open,-0.8%,OMI,"2,480",2.59,"1,460",Health Care,-$0.56,0,9.97,--
+friday,open,-37.6%,AMR,"834",4.66,"2,510",Metals & Mining,$82.83,1.90,5.92,$2.00 (1.15%)
+friday,open,1.1%,AMRX,"565",2.30,"977",Pharmaceuticals,-$0.89,0,6.12,--
+friday,open,-70.1%,BBU,"469",2.61, CAD$3.51B,$0.88,40.26,29.19,$0.25 (1.46%)
+friday,open,-52.4%,CBOE,"4,250",3.05,"14,750",Financial Services,$2.79,49.64,18.98,$2.00 (1.43%)
+friday,open, - ,CRBG,"299",3.86,"12,130",Financial Services,$6.49,2.87,4.20,$0.92 (4.92%)
+friday,open,3.3%,DBRG,"1,450",2.43,"2,690",Real Estate,-$2.09,0,0,$0.04 (0.25%)
+friday,open,0.2%,EVRG,"2,260",3.41,"13,850",Utilities,$3.35,17.92,15.30,$2.45 (4.09%)
+friday,open,0.3%,LSXMA,"10,990",3.18,"27,350",Media,$2.07,56.51,37.10,--
+friday,open,-25.9%,LYB,"211",2.95,"32,120",Chemicals,$9.28,10.58,9.77,$5.00 (5.06%)
+friday,open,340.8%,ORLA,"123",4.15, CAD$1.90B,Metals & Mining,$0.13,35.78,24.15,--
+friday,open,-3.0%,PRLB,"2,710",2.55,"869",Machinery,-$3.98,0,26.02,--
+friday,open,-8.2%,QRTEA,"1,040",1.69,"460",Retail,-$6.70,0,14.56,--
+friday,open,6.0%,ADV,"420",2.43,"840",Media,-$4.53,0,5.08,--
+friday,open,-28.1%,ASIX,"1,410",3.51,"1,110",Chemicals,$5.02,7.69,8.72,$0.58 (1.45%)
+friday,open,10.7%,BEPC,"177",4.07,"5,630",Utilities,$3.91,3.98,0,$1.35 (4.33%)
+friday,open,-51.2%,EAF,"260",3.08,"1,360",$0.98,5.39,20.86,$0.04 (0.76%)
+friday,open,6.5%,ESNT,"4,090",3.64,"5,320",Financial Services,$6.78,7.31,7.71,$1.00 (2.02%)
+friday,open,-49.7%,GNK,"824",3.30,"616",Marine,$2.78,5.16,5.89,$0.60 (4.14%)
+friday,open,-18.6%,GPRE,"447",2.74,"2,110",Energy,-$2.32,0,26.49,--
+friday,open,-10.6%,PNM,"1,330",3.39,"3,850",Utilities,$2.42,18.45,15.97,$1.47 (3.28%)
+friday,open,7.5%,RPID,"1,300",2.23,"42",-$1.40,0,0,--
+friday,open,-3.6%,TDS,"600",2.34,"854",Telecommunication,-$0.51,0,0,$0.74 (9.23%)
+friday,open,-50.0%,BSAC,"2,250",3.21,CLP 8.24T,Banking,$1.75,12.02,3,835.52,--
+friday,open,-0.2%,LSXMK,"17,930",3.18,"27,350",Media,$2.07,56.51,37.25,--
